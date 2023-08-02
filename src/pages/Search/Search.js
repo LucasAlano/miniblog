@@ -21,7 +21,7 @@ const Search = () => {
                         <h2>Nenhum resultado encontrado pela busca de {search}</h2>
                     </>  
             )}
-            {posts && posts.length != 0 &&(
+            {posts && posts.length !== 0 &&(
                 <>
                     <h2>Resultados de {search}</h2>
                 </>

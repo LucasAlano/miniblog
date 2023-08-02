@@ -18,7 +18,7 @@ import Login from './pages/Login/Login';
 import CreatePost from './pages/CreatePost/CreatePost'
 import Dashboard from './pages/Dashboard/Dashboard'
 import Search from './pages/Search/Search';
-import Post from './pages/Post.js/Post';
+import Post from './pages/Post/Post';
 
 //Components
 import Navbar from './components/Navbar';
